@@ -8,7 +8,8 @@ body {margin: 0 0;
     height: 68px; 
     background-color: #133955; 
     padding: 10px; 
-    display: inline-flex;}
+    display: inline-flex;
+    }
 .topNav img {float: left; 
     margin: 0 40px;}
 .topNav h2 {color: #f1f0e2; 
@@ -23,7 +24,7 @@ body {margin: 0 0;
     margin-right: 80px;
     }
 
-.heroImg {height: 600px; padding: 60px;}
+#heroImg {height: 600px; padding: 40px;}
 h1 {font-family: 'Roboto Slab'; color: #33393b; font-size: 48px; font-weight: 400;}
 .content {width: 500px; margin: 0 auto;}  
 
